@@ -6,7 +6,7 @@ This interactive, event-based GUI game is coded in Java and relies heavily on ab
 It also draws on built-in interfaces, timers, and classes made by other users.
 This was submitted as a group project for CS 170, the introductory computer science course taught at Emory University.
 It reflects a successful growth of a supportive team getting hands-on with GUIs and having fun with it.
-Laura Neff was responsible for the FinalTomogatchi.java, Pet.java, Dog.java, and Parrot.java classes as the giveCandy(), giveVirus(), giveSoda(), and givePill(), set<Pet>Scale, set<Pet>Location methods for all pets in the game.
+Laura Neff was responsible for the FinalTomogatchi.java, GameOver.java, ComboBox.java, Pet.java, Dog.java, and Parrot.java classes as the giveCandy(), giveVirus(), giveSoda(), and givePill(), set<Pet>Scale, set<Pet>Location methods for all pets in the game.
 Jhaelle Payne was responsible for the FrontPage.java, Stitch.java, and Snail.java classes.
 The GUI draws on the acm.graphics package, as well as the AbstractBreadboard class created by Paul Oser, an instructor at Emory.
 The sound class was also designed by Paul Oser.
