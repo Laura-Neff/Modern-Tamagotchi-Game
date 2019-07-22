@@ -1,6 +1,8 @@
 # Modern-Tamagotchi-Game
 Java-based Tamagotchi style game 
 
+![](My Video Gif (1).gif)
+
 Background:
 This interactive, event-based GUI game is coded in Java and relies heavily on abstract classes, interfaces, and polymorphism made for the final class.
 It also draws on built-in interfaces, timers, and classes made by other users.
