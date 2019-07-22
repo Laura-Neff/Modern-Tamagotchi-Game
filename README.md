@@ -1,7 +1,7 @@
 # Modern-Tamagotchi-Game
 Java-based Tamagotchi style game 
 
-<img src="1.gif" width="250"/>
+<img src="1.gif" width="400"/>
 
 
 Background:
