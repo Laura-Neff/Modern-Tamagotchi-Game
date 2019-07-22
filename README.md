@@ -42,7 +42,6 @@ If the user clicks on the wrong medicine, the pet "dies" and the user is brought
 Some medicines are neutral for some pets.
 For example, giving a virus to a Stitch will actually cure the Stitch, while it would kill other pets, while giving a pill to the dog would cure the dog.
 
-<img src="6.gif" width="400"/>
 
 
 
