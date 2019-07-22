@@ -1,7 +1,7 @@
 # Modern-Tamagotchi-Game
 Java-based Tamagotchi style game 
 
-<img src="1.gif" width="400"/>
+<img src="1.gif" width="500"/>
 
 
 Background:
@@ -14,14 +14,10 @@ Jhaelle Payne was responsible for the FrontPage.java, Stitch.java, and Snail.jav
 The GUI draws on the acm.graphics package, as well as the AbstractBreadboard class created by Paul Oser, an instructor at Emory.
 The sound class was also designed by Paul Oser.
 
-<img src="2.gif" width="400"/>
-
 Objective:
 In this game, the user is given a selection of either a parrot, dog, Stitch, or Gary the snail to have as a pet.
 The gender of the pet is randomly chosen from an array, and the user is asked to input a name for the pet.
 The goal of the game is for the user to make sure that all of the pet's health requirements are met in order to not get a game-over screen.
-
-<img src="3.gif" width="400"/>
 
 These requirements include physical health, energy, happiness, and fun.
 The pet's health in these categories decrease over time and according to a timer.
@@ -32,16 +28,12 @@ If the pet is losing health and is "okay" in a category, the bar is yellow.
 If the pet is extremely unhealthy in a category, the bar is red.
 While the pet is losing health, teasing, tongue-in-cheek jokes based on a day in the life of a CS student at Emory are randomly displayed on the screen.
 
-<img src="4.gif" width="400"/>
-
 Physical health is increased by giving the pet medicine or food (which is intentionally hidden from the user).
 Energy is increased by letting the pet sleep.
 Happiness is increased by giving the pet affection and petting the pet.
 If one pets the pet by clicking and dragging, the pet makes an interesting, fun noise!
 Fun is increased by doing an activity with the pet.
-Each pet requires a different food, medicine, and activity.
-
-<img src="5.gif" width="400"/> 
+Each pet requires a different food, medicine, and activity. 
 
 The choice of food and activity the user does with the pet is pre-determined by the specific pet's abstract methods.
 However, when giving the pet medicine, a "mini-game" is started.
